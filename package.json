@@ -13,7 +13,7 @@
   },
   "lint-staged": {
     "src/**/*.ts": [
-      "yarn eslint --fix"
+      "yarn lint --fix"
     ]
   },
   "devDependencies": {
